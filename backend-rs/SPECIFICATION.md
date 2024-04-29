@@ -1,0 +1,4 @@
+- The backend will be written in Rust/Go Lang.
+- While the frontend can have multiple implementations, the backend will be one. 
+- Might endup using Raw SQL untop of a SQL-injection safe orm. Need to learn how to optimise joins and tables. 
+- Twitter based Homepage information checking was very interesting where usesrs who have a massive following dont push their tweets directly onto their followers' feeds
